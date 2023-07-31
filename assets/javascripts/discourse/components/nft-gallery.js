@@ -5,7 +5,7 @@ import I18n from "I18n";
 // needed until we add @glimmer/tracking
 const tracked = Ember._tracked;
 
-const OPENSEA_API = "https://api.opensea.io/api/v1";
+const OPENSEA_API = "https://api.opensea.io/api/v2";
 export const ASSETS_LIMIT = 20;
 export const COLLECTIONS_LIMIT = 300;
 
